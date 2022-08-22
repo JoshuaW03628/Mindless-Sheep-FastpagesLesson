@@ -35,7 +35,7 @@ title: Here is an extra post because why not!
 
 {% include alert.html text="Alert Box" %}
 
-{% include info.html text="YInfo Box" %}
+{% include info.html text="Info Box" %}
 
 etc...
 
