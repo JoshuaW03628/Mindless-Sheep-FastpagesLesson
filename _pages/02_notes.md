@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Vocabulary
-permalink: /vocab/
+title: Notes
+permalink: /notes/
 ---
 
 ## Notable Terms
