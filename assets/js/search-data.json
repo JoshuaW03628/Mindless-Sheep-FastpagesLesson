@@ -71,9 +71,20 @@
   
       ,"page1": {
           "title": "Notes",
-          "content": "Notable Terms . Bash: The Unix command-line interface (CLI). You’ll also see it called the terminal, the command line, or the shell. It’s a command language that allows us to work with files on our computers in a way that’s far more efficient and powerful than using a GUI (graphical user interface) | .",
+          "content": "Week 1 . Created a GitHub account | Created a Slack account and downloaded the mobile app | Installed all software Windows Subsystem Linux (WSL) | Visual Studio Code | Anaconda3 | Jupyter Notebook Bash, Python, and Java Kernels | . | . | Set up a Fastpages repository in GitHub | Customized the Fastpages site with new posts and notebooks in VSCode Practiced committing, staging, and pushing changes | . | . Week 2 . Completed bash checks and hacks (Hacks #1) | Began coding with Python Hello to Python | Test quiz.py in terminal | Practice building functions | Create an interactive quiz about Python (Hacks #2) | . | Customized Fastpage further (Hacks #3) Changed index.html | Added new page for Notes (this page!) | Created new page to describe the purpose of this site | . | . Notable Terms . Bash: The Unix command-line interface (CLI). You’ll also see it called the terminal, the command line, or the shell. It’s a command language that allows us to work with files on our computers in a way that’s far more efficient and powerful than using a GUI (graphical user interface) | . | .",
           "url": "https://azeem-khan1.github.io/fastpages-project/notes/",
           "relUrl": "/notes/",
+          "date": ""
+      }
+      
+  
+
+  
+      ,"page2": {
+          "title": "Purpose",
+          "content": "What is the purpose of this site? . This is a site built by Azeem Khan for his AP Computer Science Principles class . The site will be updated every day with new posts and hacks to show completion of classwork .",
+          "url": "https://azeem-khan1.github.io/fastpages-project/purpose/",
+          "relUrl": "/purpose/",
           "date": ""
       }
       
@@ -103,7 +114,7 @@
   
 
   
-      ,"page11": {
+      ,"page12": {
           "title": "",
           "content": "Sitemap: {{ “sitemap.xml” | absolute_url }} | .",
           "url": "https://azeem-khan1.github.io/fastpages-project/robots.txt",
