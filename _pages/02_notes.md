@@ -4,7 +4,7 @@ title: Notes
 permalink: /notes/
 ---
 
-# Week 1
+# Week 0
 - Created a GitHub account
 - Created a Slack account and downloaded the mobile app
 - Installed all software
@@ -17,7 +17,7 @@ permalink: /notes/
 - Customized the Fastpages site with new posts and notebooks in VSCode
     - Practiced committing, staging, and pushing changes
 
-# Week 2
+# Week 1
 - Completed [bash checks and hacks](https://azeem-khan1.github.io/fastpages-project/jupyter/2022/08/22/BashHacks.html) *(Hacks #1)*
 - Began [coding with Python](https://azeem-khan1.github.io/fastpages-project/jupyter/2022/08/23/AnatomyOfPython.html)
     - Hello to Python
