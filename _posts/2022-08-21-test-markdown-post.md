@@ -2,6 +2,7 @@
 toc: true
 layout: post
 description: I'm just trying to experiment with stuff at this point.
+image: /images/unsure.png
 categories: [markdown]
 title: Here is an extra post because why not!
 ---
