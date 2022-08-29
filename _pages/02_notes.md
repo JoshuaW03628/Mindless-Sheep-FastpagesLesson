@@ -24,10 +24,13 @@ permalink: /notes/
     - Test quiz.py in terminal
     - Practice building functions
     - Create an interactive quiz about Python *(Hacks #2)*
-- Customized Fastpage further *(Hacks #3)*
+- [Customized Fastpage further](https://azeem-khan1.github.io/fastpages-project/hacks/fastpageshacks) *(Hacks #3)*
     - Changed index.html
     - Added new page for [Notes](https://azeem-khan1.github.io/fastpages-project/notes/) (this page!)
     - Created new [page](https://azeem-khan1.github.io/fastpages-project/purpose/) to describe the purpose of this site
+    - [First Notebook post](https://azeem-khan1.github.io/fastpages-project/jupyter/2022/08/20/JupyterNotebookTest.html)
+    - [Post with image](https://azeem-khan1.github.io/fastpages-project/markdown/2022/08/21/test-markdown-post.html) (The image is visible on my fastpages homepage)
+    - [First docx post]()
 
 
 ## Notable Terms
