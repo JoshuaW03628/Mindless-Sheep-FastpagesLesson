@@ -30,7 +30,7 @@ permalink: /notes/
     - Created new [page](https://azeem-khan1.github.io/fastpages-project/purpose/) to describe the purpose of this site
     - [First Notebook post](https://azeem-khan1.github.io/fastpages-project/jupyter/2022/08/20/JupyterNotebookTest.html)
     - [Post with image](https://azeem-khan1.github.io/fastpages-project/markdown/2022/08/21/test-markdown-post.html) (The image is visible on my fastpages homepage)
-    - [First docx post]()
+    - [First docx post](https://azeem-khan1.github.io/fastpages-project/2022/08/26/firstworddoc.html)
 
 
 ## Notable Terms
