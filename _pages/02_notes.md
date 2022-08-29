@@ -18,8 +18,8 @@ permalink: /notes/
     - Practiced committing, staging, and pushing changes
 
 # Week 1
-- Completed [bash checks and hacks](https://azeem-khan1.github.io/fastpages-project/jupyter/2022/08/22/BashHacks.html) *(Hacks #1)*
-- Began [coding with Python](https://azeem-khan1.github.io/fastpages-project/jupyter/2022/08/23/AnatomyOfPython.html)
+- Completed [bash checks and hacks](https://azeem-khan1.github.io/fastpages-project/hacks/bashhacks) *(Hacks #1)*
+- Began [coding with Python](https://azeem-khan1.github.io/fastpages-project/hacks/anatomyofpython)
     - Hello to Python
     - Test quiz.py in terminal
     - Practice building functions
