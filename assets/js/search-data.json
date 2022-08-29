@@ -58,7 +58,7 @@
     
         ,"post5": {
             "title": "Here is an extra post because why not!",
-            "content": "Testing some stuff . Markdown Syntax . Bold . Italic . Bold Italic . Embed Code . link . Quote . Numbered | List | Bulleted | List . | Check | Box | List | . Strikethrough . . Alert Box . Info Box etc… . Not really much else to test . I guess this is the end. .",
+            "content": "Testing some stuff . Here is an image . . Markdown Syntax . Bold . Italic . Bold Italic . Embed Code . link . Quote . Numbered | List | Bulleted | List . | Check | Box | List | . Strikethrough . . Alert Box . Info Box etc… . Not really much else to test . I guess this is the end. .",
             "url": "https://azeem-khan1.github.io/fastpages-project/markdown/2022/08/21/test-markdown-post.html",
             "relUrl": "/markdown/2022/08/21/test-markdown-post.html",
             "date": " • Aug 21, 2022"
