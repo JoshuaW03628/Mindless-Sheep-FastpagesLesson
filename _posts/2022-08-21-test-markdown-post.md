@@ -8,6 +8,10 @@ title: Here is an extra post because why not!
 ---
 # Testing some stuff
 
+## Here is an image
+
+![]({{site.baseurl}}/images/IMG_3600-2.png)
+
 ## Markdown Syntax
 
 **Bold**
@@ -43,4 +47,3 @@ etc...
 ## Not really much else to test
 
 I guess this is the end.
-
