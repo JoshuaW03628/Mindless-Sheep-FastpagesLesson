@@ -1,9 +1,8 @@
-# HTML Fragments and Hacks
-> Hacks for HTML Fragments and Layouts
-
-- title: HTML Fragments and Hacks
-- toc: true
-- comments: true
-- permalink: /hacks/HTML_fragments
-- categories: [hacks]
-- tags: [HTML]
+---
+title: HTML Fragments Hacks
+layout: post
+description: Hacks for HTML Fragments (Week 2) 
+permalink: /hacks/HTML_fragments
+categories: [hacks]
+tags: [markdown, HTML]
+---
