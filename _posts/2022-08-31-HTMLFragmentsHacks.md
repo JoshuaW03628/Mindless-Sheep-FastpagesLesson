@@ -6,3 +6,10 @@ permalink: /hacks/HTML_fragments
 categories: [hacks]
 tags: [markdown, HTML]
 ---
+
+# Hacks
+1. Remote theme
+    - Before remote theme:
+
+
+    - After remote theme:
