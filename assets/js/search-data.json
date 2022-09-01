@@ -3,7 +3,7 @@
     
         "post0": {
             "title": "HTML Fragments Hacks",
-            "content": "Hacks . Remote theme Before remote theme: . | After remote theme: . | . |",
+            "content": "Hacks . Remote theme Before remote theme: . | After remote theme: . | . | Observations . One thing I am 100% confident in is that I like how the default “miniima” theme looks | The dark mode makes it very hard to read most of the text in the “Hacker” remote theme | The remote theme looks a lot more vintage | Remote theme does not support “pages” layout like the default (the little tabs in the top right become links instead) | Hacker theme lacked organization and sectioning | Looked like it was from the dinosaur era | . Time box is implemented on my Notes page to organize my notes. . | |",
             "url": "https://azeem-khan1.github.io/fastpages-project/hacks/HTML_fragments",
             "relUrl": "/hacks/HTML_fragments",
             "date": " • Aug 31, 2022"
