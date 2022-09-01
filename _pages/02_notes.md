@@ -4,18 +4,25 @@ title: Notes
 permalink: /notes/
 ---
 
-# Week 0
-- Created a GitHub account
-- Created a Slack account and downloaded the mobile app
-- Installed all software
-    - Windows Subsystem Linux (WSL)
-    - Visual Studio Code
-    - Anaconda3
-    - Jupyter Notebook
-        - Bash, Python, and Java Kernels
-- Set up a Fastpages repository in GitHub
-- Customized the Fastpages site with new posts and notebooks in VSCode
-    - Practiced committing, staging, and pushing changes
+# Week 2
+- Completed in-class [activity](https://azeem-khan1.github.io/fastpages-project/hacks/python_lists) for Python Lists and Dictionaries (cloned from APCSP repository)
+    - Completed [hacks](https://azeem-khan1.github.io/fastpages-project/hacks/python_lists#Hacks) as well
+- Experimented with new web page layouts and taking fragments from other web pages
+    - Completed [hacks](https://azeem-khan1.github.io/fastpages-project/hacks/HTML_fragments) for HTML Fragments
+
+
+## Notable Terms
+
+- Python list:
+    - Lists are used to store multiple items in a single variable (created using square brackets)
+- Python dictionary:
+    - A collection of data which is ordered and can be changed. Dictionaries do not allow duplicates.
+- Iteration:
+    - Repeated execution of a set of statements
+- Fragment:
+    - Text or HTML markup that is often reused (putting together multiple fragments of HTML can result in a unique markup)
+
+
 
 # Week 1
 - Completed [bash checks and hacks](https://azeem-khan1.github.io/fastpages-project/hacks/bashhacks) *(Hacks #1)*
@@ -43,3 +50,18 @@ permalink: /notes/
     - Information the computer gives to you
 - Sequence:
     - Several lines of code together
+
+
+
+# Week 0
+- Created a GitHub account
+- Created a Slack account and downloaded the mobile app
+- Installed all software
+    - Windows Subsystem Linux (WSL)
+    - Visual Studio Code
+    - Anaconda3
+    - Jupyter Notebook
+        - Bash, Python, and Java Kernels
+- Set up a Fastpages repository in GitHub
+- Customized the Fastpages site with new posts and notebooks in VSCode
+    - Practiced committing, staging, and pushing changes
