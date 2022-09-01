@@ -15,4 +15,4 @@ tags: [markdown, HTML]
 
     - After remote theme:
     ![Before ss 1]({{site.baseurl}}/images/Fastpage hacker theme 1.jpg)
-    ![Before ss 1]({{site.baseurl}}/images/Fastpage hacker theme 2.jpg.jpg)
+    ![Before ss 1]({{site.baseurl}}/images/Fastpage hacker theme 2.jpg)
