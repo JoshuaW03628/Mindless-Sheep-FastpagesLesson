@@ -25,6 +25,18 @@ tags: [markdown, HTML]
 - Hacker theme lacked organization and sectioning
 - Looked like it was from the dinosaur era
 
-2. Time box is implemented on my [Notes](https://azeem-khan1.github.io/fastpages-project/notes/) page to organize my notes.
 
-3. 
+2. 
+| Time box | example |
+| -------- | ------- |
+| Week 0 | Tool setup (install all required software) & build fastpage|
+| Week 1 | Bash checks and Hello to python (Python Quiz) |
+| Week 2 | Python lists & dictionaries and HTML Fragments |
+
+3. I have made a category for hacks so that the user can navigate to the tags page and access all hacks that have been completed or are in progress.
+![Tags screenshot]({{site.baseurl}}/images/tags.jpg)
+
+4. Searching on my site seems to work properly for me.
+![Search screenshot]({{site.baseurl}}/image/Search.jpg)
+
+5. 
