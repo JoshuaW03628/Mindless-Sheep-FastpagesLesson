@@ -17,7 +17,7 @@ tags: [markdown, HTML]
     ![after ss 1]({{site.baseurl}}/images/Fastpage hacker theme 1.jpg)
     ![after ss 1]({{site.baseurl}}/images/Fastpage hacker theme 2.jpg)
 
-### Observations
+Observations:
 - One thing I am 100% confident in is that I like how the default "miniima" theme looks
 - The dark mode makes it very hard to read most of the text in the "Hacker" remote theme
 - The remote theme looks a lot more vintage
@@ -25,8 +25,7 @@ tags: [markdown, HTML]
 - Hacker theme lacked organization and sectioning
 - Looked like it was from the dinosaur era
 
-
-2. 
+2. Here is a...
 | Time box | example |
 | -------- | ------- |
 | Week 0 | Tool setup (install all required software) & build fastpage|
@@ -39,4 +38,4 @@ tags: [markdown, HTML]
 4. Searching on my site seems to work properly for me.
 ![Search screenshot]({{site.baseurl}}/images/Search.jpg)
 
-5. 
+5. to be determined
