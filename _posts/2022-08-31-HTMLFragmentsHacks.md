@@ -37,6 +37,6 @@ tags: [markdown, HTML]
 ![Tags screenshot]({{site.baseurl}}/images/tags.jpg)
 
 4. Searching on my site seems to work properly for me.
-![Search screenshot]({{site.baseurl}}/image/Search.jpg)
+![Search screenshot]({{site.baseurl}}/images/Search.jpg)
 
 5. 
