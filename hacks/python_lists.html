@@ -580,7 +580,7 @@ Sunny Naidu
 <h3 id="Appending-records-to-a-dictionary-(InfoDb)">
 <a class="anchor" href="#Appending-records-to-a-dictionary-(InfoDb)" aria-hidden="true"><span class="octicon octicon-link"></span></a>Appending records to a dictionary (InfoDb)<a class="anchor-link" href="#Appending-records-to-a-dictionary-(InfoDb)"> </a>
 </h3>
-<p>See <a href="https://azeem-khan1.github.io/fastpages-project/hacks/python_lists#List-and-Dictionary-purpose">this section</a> (Look for comments in code block to know where the HACKS are)</p>
+<p>See <a href="https://azeem-khan1.github.io/fastpages-project/hacks/python_lists">this section</a> (Look for comments in code block to know where the HACKS are)</p>
 
 </div>
 </div>
@@ -602,7 +602,7 @@ Sunny Naidu
 <div class="inner_cell">
     <div class="input_area">
 <div class=" highlight hl-ipython3"><pre><span></span><span class="k">for</span> <span class="n">indx</span><span class="p">,</span> <span class="n">record</span> <span class="ow">in</span> <span class="nb">enumerate</span><span class="p">(</span><span class="n">InfoDb</span><span class="p">):</span>
-    <span class="nb">print</span><span class="p">(</span><span class="s2">"Item #"</span> <span class="o">+</span> <span class="nb">str</span><span class="p">(</span><span class="n">indx</span><span class="o">+</span><span class="mi">1</span><span class="p">))</span>
+    <span class="nb">print</span><span class="p">(</span><span class="s2">"Record #"</span> <span class="o">+</span> <span class="nb">str</span><span class="p">(</span><span class="n">indx</span><span class="o">+</span><span class="mi">1</span><span class="p">)</span> <span class="o">+</span> <span class="s2">": "</span><span class="p">,</span> <span class="n">end</span> <span class="o">=</span> <span class="s2">""</span><span class="p">)</span>
     <span class="n">print_data</span><span class="p">(</span><span class="n">record</span><span class="p">)</span>
 </pre></div>
 
@@ -616,26 +616,22 @@ Sunny Naidu
 <div class="output_area">
 
 <div class="output_subarea output_stream output_stdout output_text">
-<pre>Item #1
-John Mortensen
+<pre>Record #1: John Mortensen
 	 Residence: San Diego
 	 Birth Day: October 21
 	 Cars: 2015-Fusion, 2011-Ranger, 2003-Excursion, 1997-F350, 1969-Cadillac
 
-Item #2
-Sunny Naidu
+Record #2: Sunny Naidu
 	 Residence: Temecula
 	 Birth Day: August 2
 	 Cars: 4Runner
 
-Item #3
-Azeem Khan
+Record #3: Azeem Khan
 	 Residence: Rancho Bernardo
 	 Birth Day: September 18
 	 Cars: Nissan Leaf
 
-Item #4
-Colin Mills
+Record #4: Colin Mills
 	 Residence: 4S Ranch
 	 Birth Day: February 15
 	 Cars: Honda Accord
