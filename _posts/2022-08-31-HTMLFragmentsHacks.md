@@ -1,7 +1,9 @@
 ---
 title: HTML Fragments Hacks
-layout: post
 description: Hacks for HTML Fragments (Week 2) 
+toc: true
+comments: true
+layout: post
 permalink: /hacks/HTML_fragments
 categories: [hacks]
 tags: [markdown, HTML]
