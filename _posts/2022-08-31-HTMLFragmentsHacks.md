@@ -26,6 +26,7 @@ Observations:
 - Looked like it was from the dinosaur era
 
 ### Time Box
+
 | Time box | example |
 | -------- | ------- |
 | Week 0 | Tool setup (install all required software) & build fastpage|
@@ -42,7 +43,6 @@ Observations:
 
 ### Making a table the Lazy Programmer's way
 
-<!DOCTYPE html>
 <html lang="en">
   <head>
     <meta charset="UTF-8" />
