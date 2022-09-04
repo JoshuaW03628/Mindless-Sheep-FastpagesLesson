@@ -31,7 +31,7 @@ Observations:
 
 | Time box | example |
 | -------- | ------- |
-| Week 0 | Tool setup (install all required software) & build fastpage|
+| Week 0 | Tool setup (install all required software) & build fastpage |
 | Week 1 | Bash checks and Hello to python (Python Quiz) |
 | Week 2 | Python lists & dictionaries and HTML Fragments |
 
