@@ -79,7 +79,7 @@ window.onload = wrap_img;
        • <span class="read-time" title="Estimated read time">
     
     
-      1 min read
+      3 min read
     
 </span></p>
 
@@ -124,12 +124,21 @@ window.onload = wrap_img;
 
   <div class="post-content e-content" itemprop="articleBody">
     <ul id="toc" class="section-nav">
-<li class="toc-entry toc-h2"><a href="#Brainstorm-for-Quiz">Brainstorm for Quiz </a>
+<li class="toc-entry toc-h2"><a href="#Brainstorm-for-Program">Brainstorm for Program </a>
 <ul>
 <li class="toc-entry toc-h3"><a href="#Questions-and-Answers">Questions and Answers </a></li>
 </ul>
 </li>
-<li class="toc-entry toc-h2"><a href="#Discoveries,-Challenges,-and-Successes">Discoveries, Challenges, and Successes </a></li>
+<li class="toc-entry toc-h2"><a href="#Discoveries,-Challenges,-and-Successes">Discoveries, Challenges, and Successes </a>
+<ul>
+<li class="toc-entry toc-h3"><a href="#Program-and-Purpose">Program and Purpose </a></li>
+<li class="toc-entry toc-h3"><a href="#Data-Abstraction">Data Abstraction </a></li>
+<li class="toc-entry toc-h3"><a href="#Managing-Complexity">Managing Complexity </a></li>
+<li class="toc-entry toc-h3"><a href="#Procedural-Abstraction">Procedural Abstraction </a></li>
+<li class="toc-entry toc-h3"><a href="#Algorithm-Implementation">Algorithm Implementation </a></li>
+<li class="toc-entry toc-h3"><a href="#Testing">Testing </a></li>
+</ul>
+</li>
 <li class="toc-entry toc-h2"><a href="#Alternate-App-Idea">Alternate App Idea </a></li>
 </ul><!--
 #################################################
@@ -143,10 +152,10 @@ window.onload = wrap_img;
 <div class="cell border-box-sizing text_cell rendered">
 <div class="inner_cell">
 <div class="text_cell_render border-box-sizing rendered_html">
-<h2 id="Brainstorm-for-Quiz">
-<a class="anchor" href="#Brainstorm-for-Quiz" aria-hidden="true"><span class="octicon octicon-link"></span></a>Brainstorm for Quiz<a class="anchor-link" href="#Brainstorm-for-Quiz"> </a>
+<h2 id="Brainstorm-for-Program">
+<a class="anchor" href="#Brainstorm-for-Program" aria-hidden="true"><span class="octicon octicon-link"></span></a>Brainstorm for Program<a class="anchor-link" href="#Brainstorm-for-Program"> </a>
 </h2>
-<p>Theme: automotive knowledge</p>
+<p>My partner and I decided to make a simple quiz</p>
 <h3 id="Questions-and-Answers">
 <a class="anchor" href="#Questions-and-Answers" aria-hidden="true"><span class="octicon octicon-link"></span></a>Questions and Answers<a class="anchor-link" href="#Questions-and-Answers"> </a>
 </h3>
@@ -176,6 +185,30 @@ window.onload = wrap_img;
 <li>Developing a good program takes a lot of trial, error, and debugging to make sure everything runs smoothly</li>
 <li>I was able to build the quiz successfully eventually, so <a href="https://studio.code.org/projects/applab/--lWSXIASPrNfBPcrQvILzJ2xavbndxXWCYvtsrp24I">here</a> it is</li>
 </ul>
+<h3 id="Program-and-Purpose">
+<a class="anchor" href="#Program-and-Purpose" aria-hidden="true"><span class="octicon octicon-link"></span></a>Program and Purpose<a class="anchor-link" href="#Program-and-Purpose"> </a>
+</h3>
+<p>This program is a simple 3-question quiz about random automotive knowledge. It doesn't really have a purpose other than helping us experiment with AppLab and having something to submit for this hack</p>
+<h3 id="Data-Abstraction">
+<a class="anchor" href="#Data-Abstraction" aria-hidden="true"><span class="octicon octicon-link"></span></a>Data Abstraction<a class="anchor-link" href="#Data-Abstraction"> </a>
+</h3>
+<p>We used a data table with all of the question and answer values that we needed. We also figured out how to take values from that table and display them on the virtual screen using getColumn.</p>
+<h3 id="Managing-Complexity">
+<a class="anchor" href="#Managing-Complexity" aria-hidden="true"><span class="octicon octicon-link"></span></a>Managing Complexity<a class="anchor-link" href="#Managing-Complexity"> </a>
+</h3>
+<p>We originally were going to use button elements for the user to select an answer, but that would have made it a lot more complex to code, since they were able to select more than one choice at a time by default. Instead, we decided to use radio buttons, which only allow one selection at a time. This made it simpler to code, but also resulted in us having to figure out how to link those buttons to the choices they represent.</p>
+<h3 id="Procedural-Abstraction">
+<a class="anchor" href="#Procedural-Abstraction" aria-hidden="true"><span class="octicon octicon-link"></span></a>Procedural Abstraction<a class="anchor-link" href="#Procedural-Abstraction"> </a>
+</h3>
+<p>We utilized procedural abstraction in the <em>Display</em> function. This function displayed the question and the answer choices for a given problem (based on the parameter that is set when calling the function). For example, if the parameter is set to 0 and we call the <em>Display</em> function, it will display question #1 with its corresponding answer choices.</p>
+<h3 id="Algorithm-Implementation">
+<a class="anchor" href="#Algorithm-Implementation" aria-hidden="true"><span class="octicon octicon-link"></span></a>Algorithm Implementation<a class="anchor-link" href="#Algorithm-Implementation"> </a>
+</h3>
+<p>One algorithm that we programmed was to recognize which choice the user has selected and display different things in the answer indicator box after the <em>check</em> button is clicked based on if that choice is recognized as correct or incorrect.</p>
+<h3 id="Testing">
+<a class="anchor" href="#Testing" aria-hidden="true"><span class="octicon octicon-link"></span></a>Testing<a class="anchor-link" href="#Testing"> </a>
+</h3>
+<p>After we finished a simple draft of the quiz, I asked another partnership to test it out and give us some tips. I also asked other people outside of class for feedback. One thing someone suggested was to add a start screen and an end screen. Another piece of feedback was that the user should receive a score at the end, so we implemented a start screen with a start button and an end screen that displays the score and a button to try again (which dumps the user back to the start screen).</p>
 <h2 id="Alternate-App-Idea">
 <a class="anchor" href="#Alternate-App-Idea" aria-hidden="true"><span class="octicon octicon-link"></span></a>Alternate App Idea<a class="anchor-link" href="#Alternate-App-Idea"> </a>
 </h2>
