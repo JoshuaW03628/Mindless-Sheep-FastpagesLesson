@@ -1,8 +1,21 @@
 ---
 layout: page
 title: Notes
+toc: true
 permalink: /notes/
 ---
+
+# Week 3
+- Got familiar with AppLab and completed [hacks](https://azeem-khan1.github.io/fastpages-project/hacks/applab_hacks)
+    - link to the [quiz](https://studio.code.org/projects/applab/--lWSXIASPrNfBPcrQvILzJ2xavbndxXWCYvtsrp24I) that my partner and I created
+
+
+## Week 3 Notable Terms
+- Block Code:
+    - A simpler and more visual way of writing code (usually by dragging in pre-programmed blocks of code)
+    - Helps new coders with unfamiliar languages
+
+
 
 # Week 2
 - Completed in-class [activity](https://azeem-khan1.github.io/fastpages-project/hacks/python_lists) for Python Lists and Dictionaries (cloned from APCSP repository)
@@ -11,7 +24,7 @@ permalink: /notes/
     - Completed [hacks](https://azeem-khan1.github.io/fastpages-project/hacks/HTML_fragments) for HTML Fragments
 
 
-## Notable Terms
+## Week 2 Notable Terms
 
 - Python list:
     - Lists are used to store multiple items in a single variable (created using square brackets)
@@ -40,7 +53,7 @@ permalink: /notes/
     - [First docx post](https://azeem-khan1.github.io/fastpages-project/2022/08/26/firstworddoc.html)
 
 
-## Notable Terms
+## Week 1 Notable Terms
 
 - Bash:
     - The Unix command-line interface (CLI). You'll also see it called the terminal, the command line, or the shell. It's a command language that allows us to work with files on our computers in a way that's far more efficient and powerful than using a GUI (graphical user interface)
