@@ -11,5 +11,5 @@ categories: [hacks]
 | Educational Tips | Fun Zone (Create Task Ideas) | Blogging and Review |
 | ---------------- | ---------------------------- | ------------------- |
 | Try on practice tests and quizzes | Simple quiz | Takes a lot of trial, error, and debugging |
-| Do corrections on practice assessments | 2-player pong game |
+| Do corrections on practice assessments | 2-player pong game | Easier with a proper plan |
 | Utilize Khan Academy | Flashcards |

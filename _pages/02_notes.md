@@ -6,14 +6,19 @@ permalink: /notes/
 ---
 
 # Week 3
-- Got familiar with AppLab and completed [hacks](https://azeem-khan1.github.io/fastpages-project/hacks/applab_hacks)
+- Got familiar with AppLab and completed [quiz hacks](https://azeem-khan1.github.io/fastpages-project/hacks/applab_quiz)
     - link to the [quiz](https://studio.code.org/projects/applab/--lWSXIASPrNfBPcrQvILzJ2xavbndxXWCYvtsrp24I) that my partner and I created
-
+- Created [Sprint Backlog](https://azeem-khan1.github.io/fastpages-project/sprintbacklog/)
+- Create Performance Task [hacks](https://azeem-khan1.github.io/fastpages-project/hacks/Create_Performance_Task)
+    - Link to my [Performance Task](https://studio.code.org/projects/applab/h3hA8Qkx_rMF5kAi65xjePKOq6U5V-0_m-8bFrAyG9w)
 
 ## Week 3 Notable Terms
 - Block Code:
     - A simpler and more visual way of writing code (usually by dragging in pre-programmed blocks of code)
     - Helps new coders with unfamiliar languages
+- Debug Log:
+    - A log that displays a message when a certain point in the program has passed
+    - Used to find errors in the code
 
 
 
