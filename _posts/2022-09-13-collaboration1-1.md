@@ -1,10 +1,10 @@
 ---
-title: Collaboration 1.1 Hacks
+title: Collaboration 1-1 Hacks
 description: Hacks for Collaboration 1.1 (Week 4) 
 toc: true
 comments: true
 layout: post
-permalink: /hacks/collaboration_1.1
+permalink: /hacks/collaboration_1-1
 categories: [hacks]
 tags: [markdown]
 ---
