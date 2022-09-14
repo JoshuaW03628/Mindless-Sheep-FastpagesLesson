@@ -39,4 +39,6 @@ After racking my brain for design ideas, I came up with something interesting th
 
 ## The Product
 
+Click [here](https://studio.code.org/projects/applab/h3hA8Qkx_rMF5kAi65xjePKOq6U5V-0_m-8bFrAyG9w) or use the embed below
+
 <iframe width="392" height="620" style="border: 0px;" src="https://studio.code.org/projects/applab/h3hA8Qkx_rMF5kAi65xjePKOq6U5V-0_m-8bFrAyG9w/embed"></iframe>
