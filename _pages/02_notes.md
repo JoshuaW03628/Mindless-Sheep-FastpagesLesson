@@ -5,6 +5,14 @@ toc: true
 permalink: /notes/
 ---
 
+# Week 4
+- Completed [Collaboration 1.1 Video Notes and Hacks](https://azeem-khan1.github.io/fastpages-project/hacks/collaboration_1-1)
+
+
+## Week 4 Notable Terms
+
+
+
 # Week 3
 - Got familiar with AppLab and completed [quiz hacks](https://azeem-khan1.github.io/fastpages-project/hacks/applab_quiz)
     - link to the [quiz](https://studio.code.org/projects/applab/--lWSXIASPrNfBPcrQvILzJ2xavbndxXWCYvtsrp24I) that my partner and I created
