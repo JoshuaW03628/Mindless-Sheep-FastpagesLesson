@@ -12,3 +12,7 @@ _notebooks/.ipynb_checkpoints
 .netlify
 .tweet-cache
 __pycache__
+# Ignore from local build
+settings.ini
+Gemfile.lock
+assets/img/2022-08-26-first-word-doc/media/image1.jpg
