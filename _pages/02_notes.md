@@ -13,7 +13,11 @@ permalink: /notes/
 
 
 ## Week 4 Notable Terms
-
+- Collaboration
+    - The ability to work efficiently and cohesively with other people
+    - Very important skill to have in the real world
+- Flask
+    - A template for a website using Python and HTML
 
 
 # Week 3
