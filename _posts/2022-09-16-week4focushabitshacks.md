@@ -9,11 +9,17 @@ categories: [hacks]
 tags: [markdown]
 ---
 
-<figure class="video_container">
-  <iframe src="https://youtu.be/ZizdB0TgAVM" frameborder="0" allowfullscreen="true"> </iframe>
-</figure>
+# [Video](https://youtu.be/ZizdB0TgAVM)
 
 # Hacks
+## Vocabulary
+- Stress: a state of mental or emotional strain or tension resulting from adverse or very demanding circumstances.
+- Psychology: the scientific study of the human mind and its functions, especially those affecting behavior in a given context.
+- Behavioral economics: a method of economic analysis that applies psychological insights into human behavior to explain economic decision-making.
+- Gratitude: the quality of being thankful; readiness to show appreciation for and to return kindness.
+- Fallacy: a mistaken belief, especially one based on unsound argument.
+
+
 ## Note of Gratitude
 I'm grateful for Varalu because he always helps me a lot if I'm confused on something and he's a smart, kind person as well.
 
