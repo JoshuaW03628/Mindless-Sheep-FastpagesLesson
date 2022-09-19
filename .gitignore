@@ -16,3 +16,10 @@ __pycache__
 settings.ini
 Gemfile.lock
 assets/img/2022-08-26-first-word-doc/media/image1.jpg
+posts/2022-08-20-JupyterNotebookTest.md
+posts/2022-08-22-BashHacks.md
+posts/2022-08-23-AnatomyOfPython.md
+posts/2022-08-24-FastpagesHacks.md
+posts/2022-08-26-first-word-doc.md
+posts/2022-08-29-TP120-python_lists.md
+posts/2022-09-07-CodeORG-Hacks.md

@@ -8,6 +8,8 @@ permalink: /notes/
 # Week 4
 - Completed [Collaboration 1.1 Video Notes and Hacks](https://azeem-khan1.github.io/fastpages-project/hacks/collaboration_1-1)
 - Installed Docker Desktop and test a [Fastpages Local Server](https://azeem-khan1.github.io/fastpages-project/hacks/fastpageslocalserver)
+- Set up a couple flask repositories (one individual, one group)
+    - [Flask hacks](http://localhost:4000/fastpages-project/hacks/flaskhacks)
 
 
 ## Week 4 Notable Terms
