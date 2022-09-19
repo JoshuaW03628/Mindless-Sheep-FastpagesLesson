@@ -39,4 +39,4 @@ tags: [markdown]
 
 This is what it looks like now:
 
-![]({{site.baseur}}/images/FlaskSite9-19.jpg)
+![]({{site.baseurl}}/images/FlaskSite9-19.jpg)
