@@ -138,3 +138,9 @@ tags: [markdown]
     - Good idea to include how it does what it does
         - Explain in detail how the code functions
         - Someone could expand upon it
+
+# Proof of MCQ completion
+
+![]({{site.baseurl}}/images/programfunctionandpurposeMCQ.jpg)
+
+# Hacks
