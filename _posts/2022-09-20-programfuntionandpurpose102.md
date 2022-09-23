@@ -144,3 +144,8 @@ tags: [markdown]
 ![]({{site.baseurl}}/images/programfunctionandpurposeMCQ.jpg)
 
 # Hacks
+- Yes, we are going to make an academic organizer
+- Yes
+- Hopefully
+- Yes
+- Yes
