@@ -268,6 +268,19 @@
 
   
       ,"page5": {
+          "title": "Submenu",
+          "content": "| Overview | Tutorial | Calculator | Binary | Grades | Graph | Life | Snake | .",
+          "url": "https://azeem-khan1.github.io/fastpages-project/submenu/",
+          "relUrl": "/submenu/",
+          "date": ""
+      }
+      
+  
+
+  
+
+  
+      ,"page7": {
           "title": "To-Do",
           "content": "",
           "url": "https://azeem-khan1.github.io/fastpages-project/to-do/",
@@ -284,8 +297,6 @@
   
 
   
-
-  
   
 
   
@@ -303,7 +314,7 @@
   
 
   
-      ,"page16": {
+      ,"page17": {
           "title": "",
           "content": "Sitemap: {{ “sitemap.xml” | absolute_url }} | .",
           "url": "https://azeem-khan1.github.io/fastpages-project/robots.txt",
