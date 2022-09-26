@@ -4,20 +4,20 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta name="twitter:card" content="summary_large_image" /><!-- Begin Jekyll SEO tag v2.8.0 -->
-<title>Sprint Backlog | Azeem Khan</title>
+<title>Java Script Table | Azeem Khan</title>
 <meta name="generator" content="Jekyll v4.1.1" />
-<meta property="og:title" content="Sprint Backlog" />
+<meta property="og:title" content="Java Script Table" />
 <meta property="og:locale" content="en_US" />
 <meta name="description" content="Azeem Khan’s first blog." />
 <meta property="og:description" content="Azeem Khan’s first blog." />
-<link rel="canonical" href="https://azeem-khan1.github.io/fastpages-project/sprintbacklog/" />
-<meta property="og:url" content="https://azeem-khan1.github.io/fastpages-project/sprintbacklog/" />
+<link rel="canonical" href="https://azeem-khan1.github.io/fastpages-project/javascripttable" />
+<meta property="og:url" content="https://azeem-khan1.github.io/fastpages-project/javascripttable" />
 <meta property="og:site_name" content="Azeem Khan" />
 <meta property="og:type" content="website" />
 <meta name="twitter:card" content="summary" />
-<meta property="twitter:title" content="Sprint Backlog" />
+<meta property="twitter:title" content="Java Script Table" />
 <script type="application/ld+json">
-{"@context":"https://schema.org","@type":"WebPage","description":"Azeem Khan’s first blog.","headline":"Sprint Backlog","url":"https://azeem-khan1.github.io/fastpages-project/sprintbacklog/"}</script>
+{"@context":"https://schema.org","@type":"WebPage","description":"Azeem Khan’s first blog.","headline":"Java Script Table","url":"https://azeem-khan1.github.io/fastpages-project/javascripttable"}</script>
 <!-- End Jekyll SEO tag -->
 <link rel="stylesheet" href="/fastpages-project/assets/css/style.css"><link type="application/atom+xml" rel="alternate" href="https://azeem-khan1.github.io/fastpages-project/feed.xml" title="Azeem Khan" /><link rel="shortcut icon" type="image/x-icon" href="/fastpages-project/images/favicon.ico"><link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/Primer/15.2.0/primer.css" integrity="sha512-xTz2ys4coGAOz8vuV1NcQBkgVmKhsSEtjbqyMJbBHRplFuvKIUo6xhLHpAyPt9mfR6twHJgn9OgVLuqOvjeBhg==" crossorigin="anonymous" />
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.14.0/css/all.min.css" integrity="sha512-1PKOgIY59xJ8Co8+NE6FZ+LOAZKjy+KY8iq0G4B3CyeY6wYHN3yt9PW0XpSriVlkMXe40PTKnXrLnZ9+fkDaog==" crossorigin="anonymous" />
@@ -69,46 +69,58 @@ window.onload = wrap_img;
 </header>
 <main class="page-content" aria-label="Content">
       <div class="wrapper">
-        <article class="post">
+        <div class="home">
 
-  <header class="post-header">
-    <h1 class="post-title">Sprint Backlog</h1>
-  </header>
+<h1>Table</h1>
 
-  <div class="post-content">
-    <h2 id="this-is-a-hack-for-week-3-and-i-might-also-use-this-occasionally">This is a hack for Week 3 and I might also use this occasionally</h2>
-
-<table>
-  <thead>
+<table id = "mytable">
     <tr>
-      <th>Educational Tips</th>
-      <th>Fun Zone (Create Task Ideas)</th>
-      <th>Blogging and Review</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>Try on practice tests and quizzes</td>
-      <td>Simple quiz</td>
-      <td>Takes a lot of trial, error, and debugging</td>
-    </tr>
-    <tr>
-      <td>Do corrections on practice assessments</td>
-      <td>2-player pong game</td>
-      <td>Easier with a proper plan</td>
-    </tr>
-    <tr>
-      <td>Utilize Khan Academy</td>
-      <td>Flashcards</td>
-      <td> </td>
-    </tr>
-  </tbody>
+    <th> Hello World</th>
+    <th> World 2 </th>
+    </tr>   
 </table>
+<script>
+    let big_dict = {
+        "vice":"poopoo",
+        "two":"oe",
+        "five": "eventeen",
+        "bonjour" : "value"
+    };
+    var body = document.getElementsByTagName("body")[0];
+ 
+    var tbl = document.getElementById("mytable");
+    var tblBody = document.createElement("tbody");
 
-  </div>
+    for (var j = 0; j < Object.keys(big_dict).length; j++) {
+        var row = document.createElement("tr");
+        
+        
+        obj = Object.keys(big_dict)[j];
+        obj2 = big_dict[obj];
+        var cell1 = document.createElement("td");
+        var cellText1 = document.createTextNode(obj);
+        var cell2 = document.createElement("td");
+        var cellText2 = document.createTextNode(obj2);
+  
+        cell1.appendChild(cellText1);
+        row.appendChild(cell1);
+        cell2.appendChild(cellText2);
+        row.appendChild(cell2);
 
-</article>
+  
+      //row added to end of table body
+      tblBody.appendChild(row);
+    }
+  
 
+    tbl.appendChild(tblBody);
+
+    body.appendChild(tbl);
+
+    tbl.setAttribute("border", "2");
+  </script>
+
+</div>
       </div>
     </main><footer class="site-footer h-card">
   <data class="u-url" href="/fastpages-project/"></data>

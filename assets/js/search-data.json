@@ -269,7 +269,7 @@
   
       ,"page5": {
           "title": "Submenu",
-          "content": "| Overview | Tutorial | Calculator | Binary | Grades | Graph | Life | Snake | .",
+          "content": "| Python Kernel | Bash Kernel | Javascript Kernel | Javascript Table | About Me | Purpose | Notes | Tags (Look for hacks) | .",
           "url": "https://azeem-khan1.github.io/fastpages-project/submenu/",
           "relUrl": "/submenu/",
           "date": ""
@@ -277,6 +277,15 @@
       
   
 
+  
+      ,"page6": {
+          "title": "Java Script Table",
+          "content": "Table . Hello World World 2 .",
+          "url": "https://azeem-khan1.github.io/fastpages-project/javascripttable",
+          "relUrl": "/javascripttable",
+          "date": ""
+      }
+      
   
 
   
@@ -297,7 +306,6 @@
   
 
   
-  
 
   
   
@@ -309,12 +317,15 @@
   
 
   
+  
+
+  
 
   
   
 
   
-      ,"page17": {
+      ,"page18": {
           "title": "",
           "content": "Sitemap: {{ “sitemap.xml” | absolute_url }} | .",
           "url": "https://azeem-khan1.github.io/fastpages-project/robots.txt",
