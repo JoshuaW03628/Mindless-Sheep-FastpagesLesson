@@ -18,3 +18,9 @@ This is the local server address that my flask site runs on: [http://127.0.0.1:5
 - Changed the background animation
 
 ![]({{site.baseurl}}/images/flaskindexhtml.jpg)
+
+# Editing stub.html
+- Changed background animation
+- Formatted text differently using a card
+- Renamed the page in navbar.html
+- Added an image
