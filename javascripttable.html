@@ -71,32 +71,32 @@ window.onload = wrap_img;
       <div class="wrapper">
         <div class="home">
 
-<h1>Table</h1>
+<h1>Javascript Table</h1>
 
 <table id = "mytable">
     <tr>
-    <th> Hello World</th>
-    <th> World 2 </th>
+    <th>Column 1</th>
+    <th>Column 2</th>
     </tr>   
 </table>
 <script>
-    let big_dict = {
-        "vice":"poopoo",
-        "two":"oe",
-        "five": "eventeen",
-        "bonjour" : "value"
+    let content = {
+        "Item 1":"Response 1",
+        "Item 2":"Response 2",
+        "Item 3":"Response 3",
+        "Item 4":"Response 4"
     };
     var body = document.getElementsByTagName("body")[0];
  
     var tbl = document.getElementById("mytable");
     var tblBody = document.createElement("tbody");
 
-    for (var j = 0; j < Object.keys(big_dict).length; j++) {
+    for (var j = 0; j < Object.keys(content).length; j++) {
         var row = document.createElement("tr");
         
         
-        obj = Object.keys(big_dict)[j];
-        obj2 = big_dict[obj];
+        obj = Object.keys(content)[j];
+        obj2 = content[obj];
         var cell1 = document.createElement("td");
         var cellText1 = document.createTextNode(obj);
         var cell2 = document.createElement("td");
