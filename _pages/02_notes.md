@@ -5,6 +5,28 @@ toc: true
 permalink: /notes/
 ---
 
+# Week 5
+- Completed [Program Function and Purpose 1.2 Hacks](https://azeem-khan1.github.io/fastpages-project/hacks/programfunctionandpurpose_1-2)
+    - Created a group on [Notion](https://www.notion.so/)
+        - Made a scrum board for the end of trimester project
+        - developed a basic idea for what the project will be
+- Completed [Individual Flask Hacks](https://azeem-khan1.github.io/fastpages-project/hacks/week5flaskhacks)
+- Completed [Group Flask Hacks](https://azeem-khan1.github.io/fastpages-project/hacks/week5groupflaskhacks)
+- Created a [submenu]({{site.baseurl}}/submenu) in _pages
+    - Includes a link to a Jupyter Notebook post with executed JS cells to show functionality of JS Kernel
+    - Includes a link to a page with a table made with HTML fragments and JS
+
+
+## Week 5 Notable Terms
+- Purpose of a program
+    - Why does the program exist
+        - what does it do
+- Javascript
+    - A programming language that is used mostly by frontend developers on the World Wide Web
+    - Can work in conjunction with HTML and CSS
+
+
+
 # Week 4
 - Completed [Collaboration 1.1 Video Notes and Hacks](https://azeem-khan1.github.io/fastpages-project/hacks/collaboration_1-1)
 - Installed Docker Desktop and test a [Fastpages Local Server](https://azeem-khan1.github.io/fastpages-project/hacks/fastpageslocalserver)
