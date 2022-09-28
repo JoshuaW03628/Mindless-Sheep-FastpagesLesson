@@ -109,3 +109,41 @@ tags: [apclassroom]
 ## Proof of MCQ
 
 ![]({{site.baseurl}}/images/1-3MCQ.jpg)
+
+## Other Hacks
+
+- Home Screen
+    - 3 buttons
+        - 2 primary
+            - "Create set"
+            - "Load previous set"
+        - 1 secondary
+            - "Settings" in the top left
+    - Big text at the center top of the screen displaying the name of the site
+- Set Screen
+    - Back arrow in the top left
+    - Displays site title in the top left (to the right of the back arrow)
+    - Displays Created Subjects in the middle
+        - Each Subject leads to an individual subject page
+    - Gives an option to create a subject at the bottom
+    - Gives an option to create cards on the top right
+- Subject Screen
+    - Same layout as Set Screen except instead of subjects, it displays Areas
+        - Each Area leads to an individual Area page
+    - Gives an option to create general notes
+- Area Screen
+    - Same layout as Set Screen except instead of subjects, it displays Topics
+        - Each Topic leads to an individual Topic page
+    - Gives an option to create general notes
+- Topic Screen
+    - Same layout as Set Screen except instead of subjects, it displays Sub-Topics
+        - Each Sub-Topic leads to an individual Sub-Topic page
+    - Gives an option to create general notes
+- Sub-Topic Screen
+    - Back arrow in the top left
+    - Displays site title in the top left (to the right of the back arrow)
+    - Displays Created notes in the middle
+    - Gives an option to create more notes like a text editor
+    - Gives an option to create cards on the top right
+
+    
