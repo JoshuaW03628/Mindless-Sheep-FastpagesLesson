@@ -10,7 +10,8 @@ tags: [apclassroom]
 ---
 
 # Hacks
-## Video 1
+## Notes
+### Video 1
 - A program starts with an idea
 - Programs are developed with a specific purpose in mind
 - Developers follow specific steps and follow a plan
@@ -44,7 +45,7 @@ tags: [apclassroom]
             - macro level (entire program)
     - Developers refine and and revise through testing, feedback, and reflection
 
-## Video 2
+### Video 2
 - Acknowledge code segments used from other sources
     - Should include origin and author name
 - Programs are usually developed in teams
@@ -59,7 +60,7 @@ tags: [apclassroom]
 - Any code segments, procedures, algorithms, etc... are considered the intellectual property of the author
 - May resemble a works cited page
 
-## Video 3
+### Video 3
 - Program documentation
     - A written description of the function of a code segment, event, procedure, or program, and how it was developed
     - Comments can be made in a programming language as a form of documentation (will not affect how program runs)
@@ -104,3 +105,7 @@ tags: [apclassroom]
     - Block based languages
         - Scratch
         - MIT AppInventor
+
+## Proof of MCQ
+
+![]({{site.baseurl}}/images/1-3MCQ.jpg)
