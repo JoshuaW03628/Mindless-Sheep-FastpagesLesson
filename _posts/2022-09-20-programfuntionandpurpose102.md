@@ -6,7 +6,7 @@ comments: true
 layout: post
 permalink: /hacks/programfunctionandpurpose_1-2
 categories: [hacks]
-tags: [markdown]
+tags: [apclassroom]
 ---
 
 # Notes
