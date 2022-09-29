@@ -116,7 +116,7 @@ tags: [apclassroom]
     - 3 buttons
         - 2 primary
             - "Create set"
-            - "Load previous set"
+            - "My Sets"
         - 1 secondary
             - "Settings" in the top left
     - Big text at the center top of the screen displaying the name of the site
