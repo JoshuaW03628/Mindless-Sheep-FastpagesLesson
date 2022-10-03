@@ -20,3 +20,7 @@ tags: [aws]
 # Running on public IP (no domain and security)
 
 ![]({{site.baseurl}}/images/PersonalFlaskOnPublicIP.jpg)
+
+# Proof of changing in AWS
+
+![]({{site.baseurl}}/images/changeproofAWS.jpg)
