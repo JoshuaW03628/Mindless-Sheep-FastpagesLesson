@@ -7,6 +7,7 @@ permalink: /notes/
 
 # Week 6
 - Complete [Program Design AP Classroom 1.3](https://azeem-khan1.github.io/fastpages-project/hacks/programdesign_1-3)
+- Add a page for [contributions](https://azeem-khan1.github.io/fastpages-project/contributions)
 - Worked on [AWS deployment](https://azeem-khan1.github.io/fastpages-project/hacks/awsdeployment)
 
 
