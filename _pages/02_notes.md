@@ -5,6 +5,19 @@ toc: true
 permalink: /notes/
 ---
 
+# Week 6
+- Complete [Program Design AP Classroom 1.3](https://azeem-khan1.github.io/fastpages-project/hacks/programdesign_1-3)
+- Worked on [AWS deployment](https://azeem-khan1.github.io/fastpages-project/hacks/awsdeployment)
+
+
+# Week 6 Notable Terms
+- AWS:
+    - Amazon Web Service
+    - Lets you deploy websites to the world wide web
+    - Very popular tool for development teams
+
+
+
 # Week 5
 - Completed [Program Function and Purpose 1.2 Hacks](https://azeem-khan1.github.io/fastpages-project/hacks/programfunctionandpurpose_1-2)
     - Created a group on [Notion](https://www.notion.so/)
