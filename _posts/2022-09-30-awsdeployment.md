@@ -13,6 +13,10 @@ tags: [aws]
 
 ![]({{site.baseurl}}/images/MortensenHacks.jpg)
 
+# Docker Outputs
+
+![]({{site.baseurl}}/images/DockerProofs.jpg)
+
 # Curl Command
 ## Individual
 
