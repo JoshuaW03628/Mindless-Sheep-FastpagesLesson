@@ -14,7 +14,7 @@
     
         ,"post1": {
             "title": "AWS Deployment Proof",
-            "content": "Required Hacks . . Curl Command . Individual . . Group . . Running on public IP (no domain and security) . Individual . . Group . . Proof of changing in AWS . .",
+            "content": "Required Hacks . . Docker Outputs . . Curl Command . Individual . . Group . . Running on public IP (no domain and security) . Individual . . Group . . Proof of changing in AWS . .",
             "url": "https://azeem-khan1.github.io/fastpages-project/hacks/awsdeployment",
             "relUrl": "/hacks/awsdeployment",
             "date": " • Sep 30, 2022"
