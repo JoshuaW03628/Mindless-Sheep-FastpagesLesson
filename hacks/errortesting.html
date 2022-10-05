@@ -586,15 +586,23 @@ window.onload = wrap_img;
 <span class="c1">#ideally the code should prompt the user multiple times</span>
 <span class="n">item</span> <span class="o">=</span> <span class="nb">input</span><span class="p">(</span><span class="s2">"Please select an item from the menu, or click enter if you are done."</span><span class="p">)</span>
 
-<span class="n">List</span> <span class="o">=</span> <span class="p">[]</span>
+<span class="n">full</span> <span class="o">=</span> <span class="mi">0</span>
+
+<span class="n">j</span> <span class="o">=</span> <span class="p">[]</span>
 
 <span class="k">while</span> <span class="n">item</span> <span class="o">!=</span> <span class="s2">""</span><span class="p">:</span>
+    <span class="n">j</span><span class="o">.</span><span class="n">append</span><span class="p">(</span><span class="n">item</span><span class="p">)</span>
+    <span class="n">item</span> <span class="o">=</span> <span class="nb">input</span><span class="p">(</span><span class="s2">"Please select an item from the menu, or click enter if you are done."</span><span class="p">)</span>
+
+<span class="k">for</span> <span class="n">item</span> <span class="ow">in</span> <span class="n">j</span><span class="p">:</span>
+    <span class="k">if</span> <span class="n">item</span> <span class="ow">in</span> <span class="n">menu</span><span class="o">.</span><span class="n">keys</span><span class="p">():</span>
+        <span class="n">full</span> <span class="o">=</span> <span class="n">full</span> <span class="o">+</span> <span class="n">menu</span><span class="p">[</span><span class="n">item</span><span class="p">]</span>
 
 
 
 
 <span class="c1">#code should add the price of the menu items selected by the user </span>
-<span class="nb">print</span><span class="p">(</span><span class="n">menu</span><span class="p">[</span><span class="n">item</span><span class="p">])</span>
+<span class="nb">print</span><span class="p">(</span><span class="nb">round</span><span class="p">(</span><span class="n">full</span><span class="p">,</span> <span class="mi">3</span><span class="p">))</span>
 </pre></div>
 
     </div>
@@ -606,12 +614,12 @@ window.onload = wrap_img;
 
 <div class="output_area">
 
-<div class="output_subarea output_text output_error">
-<pre>
-<span class="ansi-cyan-fg">  Input </span><span class="ansi-green-fg">In [47]</span>
-<span class="ansi-red-fg">    print(menu[item])</span>
-    ^
-<span class="ansi-red-fg">IndentationError</span><span class="ansi-red-fg">:</span> expected an indented block
+<div class="output_subarea output_stream output_stdout output_text">
+<pre>Menu
+burger  $3.99
+fries  $1.99
+drink  $0.99
+6.97
 </pre>
 </div>
 </div>
@@ -631,9 +639,18 @@ window.onload = wrap_img;
 <blockquote>
 <p>Now is a good time to think about Testing of your teams final project...</p>
 <ul>
-<li>What errors may arise in your project?</li>
-<li>What are some test cases that can be used?</li>
-<li>Make sure to document any bugs you encounter and how you solved the problem.</li>
+<li>What errors may arise in your project?<ul>
+<li>misdirection</li>
+</ul>
+</li>
+<li>What are some test cases that can be used?<ul>
+<li>Corner cases</li>
+</ul>
+</li>
+<li>Make sure to document any bugs you encounter and how you solved the problem.<ul>
+<li>Okay.</li>
+</ul>
+</li>
 <li>What are “single” tests that you will perform on your project? Or, your part of the project?<ul>
 <li>As Hack Design and Test plan action … Divide these “single” tests into Issues for Scrum Board prior to coding. FYI, related tests could be in same Issue by using markdown checkboxes to separate tests.</li>
 </ul>
