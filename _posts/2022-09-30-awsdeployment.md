@@ -9,17 +9,27 @@ categories: [hacks]
 tags: [aws]
 ---
 
-# Docker Verification
+# Required Hacks
 
-![]({{site.baseurl}}/images/WebAppDockerVerification.jpg)
+![]({{site.baseurl}}/images/MortensenHacks.jpg)
 
 # Curl Command
+## Individual
 
 ![]({{site.baseurl}}/images/AWSDeploymentCurl.jpg)
 
+## Group
+
+![]({{site.baseurl}}/images/CurlOutputGroup.jpg)
+
 # Running on public IP (no domain and security)
+## Individual
 
 ![]({{site.baseurl}}/images/PersonalFlaskOnPublicIP.jpg)
+
+## Group
+
+![]({{site.baseurl}}/images/GroupFlaskInBrowser.png)
 
 # Proof of changing in AWS
 
