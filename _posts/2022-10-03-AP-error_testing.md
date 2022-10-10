@@ -3,7 +3,7 @@ keywords: fastai
 description: Practice with identifying and correcting code blocks & Hacks
 title: Big Idea 1 'Identifying and Correcting Errors' Hacks
 layout: default
-badges: true
+comments: true
 permalink: /hacks/ap_error_testing
 categories: [hacks]
 nb_path: _notebooks/2022-10-03-AP-error_testing.ipynb

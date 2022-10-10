@@ -145,5 +145,3 @@ tags: [apclassroom]
     - Displays Created notes in the middle
     - Gives an option to create more notes like a text editor
     - Gives an option to create cards on the top right
-
-    
