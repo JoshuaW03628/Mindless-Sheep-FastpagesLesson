@@ -10,7 +10,12 @@ permalink: /notes/
   - Choose teaching topic (ours is 3.9 and 3.11 on [College Board / AP Classroom](https://apclassroom.collegeboard.org/103/home))
 
 # Week 12
-- Prepare for N@TM and study for other classes
+- Prepare for N@TM
+- Present at N@TM
+- Complete Final Exam in AP Classroom (50% or higher = 3/3 points)
+- Complete two blogs (N@TM and Final Exam blog)
+- Live Review of two blogs
+- Submit final project in review ticket with frontend, backend, and scrum board
 
 # Week 11
 - Work on Trimester Final Project
