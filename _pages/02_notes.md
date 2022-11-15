@@ -5,6 +5,25 @@ toc: true
 permalink: /notes/
 ---
 
+# Week 13
+- Choose groups of 4 (Akshat, Ahad, Josh, Azeem)
+  - Choose teaching topic (ours is 3.9 and 3.11 on [College Board / AP Classroom](https://apclassroom.collegeboard.org/103/home))
+
+# Week 12
+- Prepare for N@TM and study for other classes
+
+# Week 11
+- Work on Trimester Final Project
+
+# Week 10
+- Work on Trimester Final Project
+
+# Week 9
+- Work on Trimester Final Project
+
+# Week 8
+- Work on Trimester Final Project
+
 # Week 7
 
 - Debug covid.py in class fastpages blog
