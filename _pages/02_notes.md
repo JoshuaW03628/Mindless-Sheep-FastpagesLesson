@@ -8,6 +8,7 @@ permalink: /notes/
 # Week 13
 - Choose groups of 4 (Akshat, Ahad, Josh, Azeem)
   - Choose teaching topic (ours is 3.9 and 3.11 on [College Board / AP Classroom](https://apclassroom.collegeboard.org/103/home))
+- Dissect [Binary Math (Interactive Application Activity)](https://azeem-khan1.github.io/fastpages-project/pbl/binary)
 
 # Week 12
 - Prepare for N@TM
