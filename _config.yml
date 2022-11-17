@@ -6,11 +6,11 @@
 # https://learn-the-web.algonquindesign.ca/topics/markdown-yaml-cheat-sheet/#yaml
 # https://learnxinyminutes.com/docs/yaml/
 
-title: Azeem Khan
-description: Azeem Khan's first blog.
+title: TripleAJ
+description: The TripleAJ Site
 github_username: Azeem-Khan1
 # you can comment the below line out if your repo name is not different than your baseurl
-github_repo: "fastpages-project"
+github_repo: "TripleAJ"
 
 # OPTIONAL: override baseurl and url if using a custom domain
 # Note: leave out the trailing / from this value. 
@@ -34,7 +34,7 @@ url: "https://Azeem-Khan1.github.io" # the base hostname & protocol for your sit
 #
 # 3. You must replace the parameter `baseurl` in _action_files/settings.ini with the same value as you set here but WITHOUT QUOTES.
 #
-baseurl: "/fastpages-project" # the subpath of your site, e.g. "/blog".
+baseurl: "/TripleAJ" # the subpath of your site, e.g. "/blog".
 
 # Github and twitter are optional:
 minima:
@@ -43,9 +43,9 @@ minima:
   #    twitter: NighthawkCoding
   #    github: nighthawkcoders
   #   youtube_channel: UClIKOsDS5dsfzFA3zveDT3Q
-  social_links:
-    - { platform: github, user_url: "https://github.com/Azeem-Khan1"}
-    - { platform: instagram, user_url: "https://www.instagram.com/prodlilxeem"}
+  #social_links:
+  # - { platform: github, user_url: "https://github.com/Azeem-Khan1"}
+  #  - { platform: instagram, user_url: "https://www.instagram.com/prodlilxeem"}
 
 # Set this to true to get LaTeX math equation support
 use_math: 

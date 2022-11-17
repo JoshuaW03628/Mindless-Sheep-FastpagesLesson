@@ -1,11 +1,11 @@
 ---
 layout: page
-title: About Me
+title: About This Site
 permalink: /about/
 ---
 
-## About the Creator
+## About this site
 
-I am a Junior at Del Norte High School who enjoys video games, music, technology, sports, and hanging out with friends. I hope to learn a lot in this class and even making this simple blog was super fun!
+This is a group site for TripleAJ in Mr. Mortensen's period 3 Computer Science Principles course (Trimester 2).
 
--Azeem Khan
+Created by Azeem Khan, Ahad, Josh Williams, and Akshat.
