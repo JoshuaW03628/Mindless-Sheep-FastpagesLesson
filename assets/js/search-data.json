@@ -3,9 +3,9 @@
     
         "post0": {
             "title": "3.9 Lesson 1",
-            "content": "Lesson created by Akshat . Lesson Overview/Plan . The lesson will start off with introducing what algorithms are and what they do, moreover, what their significance is. . 3.9 Lesson 1 has the objective to teach the student of the outcome of similar algorithmic concepts and similar algorithms. In this lesson, you will see different ways on how algorithms are developed. . For the lesson, we are going to take detailed notes for the entire three videos and from those notes, we are going to try to make the lesson as applicable as possible, and so we are thinking of potentially making a video with our own API and algorithm or explaining other APIs that have similar algorithms, this would be innovative. . Some ideas: . Blackjack | Flip a coin | 8 Ball | .",
-            "url": "https://azeem-khan1.github.io/TripleAJ/3-9/Lesson1",
-            "relUrl": "/3-9/Lesson1",
+            "content": "Lesson Overview . The lesson will start off with introducing what algorithms are and what they do, moreover, what their significance is. . 3.9 Lesson 1 has the objective to teach the student of the outcome of similar algorithmic concepts and similar algorithms. In this lesson, you will see different ways on how algorithms are developed. . Lesson 1 | Looking Into Different Algorithms . Showing Demonstration of Mastery .",
+            "url": "https://azeem-khan1.github.io/TripleAJ/3-9Lesson1",
+            "relUrl": "/3-9Lesson1",
             "date": " • Nov 20, 2022"
         }
         
@@ -35,17 +35,6 @@
   
     
         ,"post3": {
-            "title": "3.9 Part 1 - Developing Algorithms",
-            "content": "Lesson Overview . The lesson will start off with introducing what algorithms are and what they do, moreover, what their significance is. . 3.9 Lesson 1 has the objective to teach the student of the outcome of similar algorithmic concepts and similar algorithms. In this lesson, you will see different ways on how algorithms are developed. . Lesson 1 | Looking Into Different Algorithms . Showing Demonstration of Mastery .",
-            "url": "https://azeem-khan1.github.io/TripleAJ/3-9Lesson1",
-            "relUrl": "/3-9Lesson1",
-            "date": " • Nov 17, 2022"
-        }
-        
-    
-  
-    
-        ,"post4": {
             "title": "3.11 Lesson 1",
             "content": "Lesson Created by Ahad B. . Lesson Overview . This lesson is about Binary Search and how this algorithm is structured and operates. Lesson will give a very brief recap of the past lessons. Recap will briefly be about binary basics that were shown in previous lessons. . 3.11 Lesson 1 | Binary Search Algorithm . Learning objectives . Detirmine the number of iterations required to find a value in a data set | Explain the requirements neccesary to complete a nimary search | . What we Learned/ Demonstration of mastery/homework . complete practice questions | Check answers | . Homework .",
             "url": "https://azeem-khan1.github.io/TripleAJ/3-11/Lesson1",
