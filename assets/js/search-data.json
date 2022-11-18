@@ -2,8 +2,8 @@
   
     
         "post0": {
-            "title": "3.9 Lesson 3",
-            "content": "",
+            "title": "3.9 Lesson 3 (Josh)",
+            "content": "Week 9 Lesson 3 Developing Algorithms and Binary Search Planning . Presented by Josh . Intro to “What Will we Learn in this Lesson?” . For Algorithms How to combine and/or modify an existing algorithm. | . | Benefits of this skill can reduce development time, testing time, and simplify the identification of errors. | . | . Example . Here I plan on using the robot example from the college board video and seeing if they can solve the problem, just as a little intro | . . Next example which leads into HW. . Insert a collatz conjecture picture which explains what it is | . . gives them basic algorithm for identifying odds and evens and has them add to it until the rules fit that of the collatz conjectures, this is what they will be graded on . | Insert ipynb file with the basic algorithm. . | . Hacks . create another algorithm using a famous mathematical algorithm such as the “collatz conjecture.” and explain your steps in a post on your blog. | .",
             "url": "https://azeem-khan1.github.io/TripleAJ/3-9Lesson3",
             "relUrl": "/3-9Lesson3",
             "date": " • Nov 17, 2022"
