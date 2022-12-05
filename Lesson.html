@@ -79,7 +79,7 @@ window.onload = wrap_img;
        • <span class="read-time" title="Estimated read time">
     
     
-      4 min read
+      7 min read
     
 </span></p>
 
@@ -100,10 +100,18 @@ window.onload = wrap_img;
 <li class="toc-entry toc-h1"><a href="#First-Things-First:-WGET">First Things First: WGET </a>
 <ul>
 <li class="toc-entry toc-h2"><a href="#Here's-a-quick-how-to">Here&#39;s a quick how-to </a></li>
+<li class="toc-entry toc-h2"><a href="#3.9-Developing-Algorithms">3.9 Developing Algorithms </a></li>
+<li class="toc-entry toc-h2"><a href="#Lesson">Lesson </a></li>
+<li class="toc-entry toc-h2"><a href="#Lesson-1-|-Defining-Algorithms">Lesson 1 | Defining Algorithms </a></li>
+<li class="toc-entry toc-h2"><a href="#Example-1-|-What-happens-if-we-test-it-with-54-degrees?">Example 1 | What happens if we test it with 54 degrees? </a></li>
+<li class="toc-entry toc-h2"><a href="#Example-2-|-What-happens-if-we-test-95-degrees?">Example 2 | What happens if we test 95 degrees? </a></li>
 </ul>
 </li>
-<li class="toc-entry toc-h1"><a href="#3.9-Developing-Algorithms">3.9 Developing Algorithms </a>
+<li class="toc-entry toc-h1"><a href="#Conditionals-vs.-Booleans">Conditionals vs. Booleans </a>
 <ul>
+<li class="toc-entry toc-h2"><a href="#Example-3-|-Conditionals-vs-Booleans">Example 3 | Conditionals vs Booleans </a></li>
+<li class="toc-entry toc-h2"><a href="#First-block">First block </a></li>
+<li class="toc-entry toc-h2"><a href="#Second-block">Second block </a></li>
 <li class="toc-entry toc-h2"><a href="#Flowcharts-(START-OF-AZEEM'S-SECTION)">Flowcharts (START OF AZEEM&#39;S SECTION) </a>
 <ul>
 <li class="toc-entry toc-h3"><a href="#How-To-Set-Up-A-Flowchart">How To Set Up A Flowchart </a></li>
@@ -176,16 +184,265 @@ window.onload = wrap_img;
 <div class="cell border-box-sizing text_cell rendered">
 <div class="inner_cell">
 <div class="text_cell_render border-box-sizing rendered_html">
-<h1 id="3.9-Developing-Algorithms">
+<h2 id="3.9-Developing-Algorithms">
 <a class="anchor" href="#3.9-Developing-Algorithms" aria-hidden="true"><span class="octicon octicon-link"></span></a>3.9 Developing Algorithms<a class="anchor-link" href="#3.9-Developing-Algorithms"> </a>
-</h1>
-<blockquote>
-<p>AKSHAT PUT YOUR STUFF BETWEEN HERE AND THE NEXT SECTION ABOUT "FLOWCHARTS"</p>
-</blockquote>
+</h2>
+<h2 id="Lesson">
+<a class="anchor" href="#Lesson" aria-hidden="true"><span class="octicon octicon-link"></span></a>Lesson<a class="anchor-link" href="#Lesson"> </a>
+</h2>
+<p>The lesson will start off with introducing what algorithms are and what they do, moreover, what their significance is.</p>
+<p>3.9 Lesson 1 has the objective to teach the student of the outcome of similar algorithmic concepts and similar algorithms. In this lesson, you will see different ways on how algorithms are developed.</p>
+<p>Lesson created by Akshat P.</p>
+<h2 id="Lesson-1-|-Defining-Algorithms">
+<a class="anchor" href="#Lesson-1-%7C-Defining-Algorithms" aria-hidden="true"><span class="octicon octicon-link"></span></a>Lesson 1 | Defining Algorithms<a class="anchor-link" href="#Lesson-1-%7C-Defining-Algorithms"> </a>
+</h2>
+<p>What is an algorithm?
+An algorithm is a process or set of rules to be followed through CODE. There are set limitations, this is what makes algorithms fun, you can your imagination and create whatever you wan with your own instructions!</p>
+<ul>
+<li>
+<p>Algorithms can be written in different ways and still accomplish the same tasks</p>
+</li>
+<li>
+<p>Algorithms that appear similar can yield different side effects or results.</p>
+</li>
+<li>
+<p>Some conditional statements can be written as the same as Boolean expressions (VICE VERSA)</p>
+</li>
+<li>
+<p>Different algorithms can be developed or use dto solve the same problem.</p>
+</li>
+</ul>
+<h2 id="Example-1-|-What-happens-if-we-test-it-with-54-degrees?">
+<a class="anchor" href="#Example-1-%7C-What-happens-if-we-test-it-with-54-degrees?" aria-hidden="true"><span class="octicon octicon-link"></span></a>Example 1 | What happens if we test it with 54 degrees?<a class="anchor-link" href="#Example-1-%7C-What-happens-if-we-test-it-with-54-degrees?"> </a>
+</h2>
+</div>
+</div>
+</div>
+<div class="cell border-box-sizing text_cell rendered">
+<div class="inner_cell">
+<div class="text_cell_render border-box-sizing rendered_html">
+<p>Record what your outputs are when you enter 54 and then 95, does the algorithm yield the same result?</p>
 
 </div>
 </div>
 </div>
+<div class="cell border-box-sizing text_cell rendered">
+<div class="inner_cell">
+<div class="text_cell_render border-box-sizing rendered_html">
+<p>The conditional below is nested</p>
+
+</div>
+</div>
+</div>
+    
+    
+<div class="cell border-box-sizing code_cell rendered">
+<div class="input">
+
+<div class="inner_cell">
+    <div class="input_area">
+<div class=" highlight hl-ipython3"><pre><span></span><span class="n">temp</span> <span class="o">=</span> <span class="nb">int</span><span class="p">(</span><span class="nb">input</span><span class="p">(</span><span class="s2">"Select a temperature from 0 to 99 degrees F"</span><span class="p">))</span>
+<span class="k">if</span> <span class="p">(</span><span class="n">temp</span> <span class="o">&gt;=</span> <span class="mi">90</span><span class="p">):</span>
+    <span class="nb">print</span><span class="p">(</span><span class="s2">"It's too hot outside!"</span><span class="p">)</span>
+<span class="k">else</span><span class="p">:</span>
+    <span class="k">if</span> <span class="p">(</span><span class="n">temp</span> <span class="o">&gt;=</span> <span class="mi">65</span><span class="p">):</span>
+        <span class="nb">print</span><span class="p">(</span><span class="s2">"Sure I will play outside!"</span><span class="p">)</span>
+    <span class="k">else</span><span class="p">:</span> 
+        <span class="nb">print</span><span class="p">(</span><span class="s2">"It is too cold outside!"</span><span class="p">)</span>
+<span class="c1"># Input 54 and then 95, what do you notice?</span>
+</pre></div>
+
+    </div>
+</div>
+</div>
+
+</div>
+    
+
+<div class="cell border-box-sizing text_cell rendered">
+<div class="inner_cell">
+<div class="text_cell_render border-box-sizing rendered_html">
+<h2 id="Example-2-|-What-happens-if-we-test-95-degrees?">
+<a class="anchor" href="#Example-2-%7C-What-happens-if-we-test-95-degrees?" aria-hidden="true"><span class="octicon octicon-link"></span></a>Example 2 | What happens if we test 95 degrees?<a class="anchor-link" href="#Example-2-%7C-What-happens-if-we-test-95-degrees?"> </a>
+</h2>
+</div>
+</div>
+</div>
+<div class="cell border-box-sizing text_cell rendered">
+<div class="inner_cell">
+<div class="text_cell_render border-box-sizing rendered_html">
+<p>Record what your outputs are when you enter 54 and then 95, does the algorithm yield the same result this time?</p>
+
+</div>
+</div>
+</div>
+<div class="cell border-box-sizing text_cell rendered">
+<div class="inner_cell">
+<div class="text_cell_render border-box-sizing rendered_html">
+<p>The condition below is not nested</p>
+
+</div>
+</div>
+</div>
+    
+    
+<div class="cell border-box-sizing code_cell rendered">
+<div class="input">
+
+<div class="inner_cell">
+    <div class="input_area">
+<div class=" highlight hl-ipython3"><pre><span></span><span class="n">temp</span> <span class="o">=</span> <span class="nb">int</span><span class="p">(</span><span class="nb">input</span><span class="p">(</span><span class="s2">"Select a temperature from 0 to 99 degrees F"</span><span class="p">))</span>
+<span class="k">if</span> <span class="p">(</span><span class="n">temp</span> <span class="o">&gt;=</span> <span class="mi">90</span><span class="p">):</span>
+    <span class="nb">print</span><span class="p">(</span><span class="s2">"It's too hot outside!"</span><span class="p">)</span>
+<span class="k">if</span> <span class="p">(</span><span class="n">temp</span> <span class="o">&gt;=</span> <span class="mi">65</span><span class="p">):</span>
+    <span class="nb">print</span><span class="p">(</span><span class="s2">"Sure I will play outside?"</span><span class="p">)</span>
+<span class="k">if</span> <span class="p">(</span><span class="n">temp</span> <span class="o">&lt;</span> <span class="mi">65</span><span class="p">):</span>
+    <span class="nb">print</span><span class="p">(</span><span class="s2">"It is too cold outside!"</span><span class="p">)</span>
+    <span class="c1"># Input 54 and then Input 95, what do you notice?</span>
+</pre></div>
+
+    </div>
+</div>
+</div>
+
+</div>
+    
+
+<div class="cell border-box-sizing text_cell rendered">
+<div class="inner_cell">
+<div class="text_cell_render border-box-sizing rendered_html">
+<p>Even though an algorithm's code can look the same, you have to be careful, they can always yield different results. When constructing algorithms you want to make sure that your code corresponds with what you want as your output. You set the limit of your code and you decide what the code's output is.</p>
+
+</div>
+</div>
+</div>
+<div class="cell border-box-sizing text_cell rendered">
+<div class="inner_cell">
+<div class="text_cell_render border-box-sizing rendered_html">
+<h1 id="Conditionals-vs.-Booleans">
+<a class="anchor" href="#Conditionals-vs.-Booleans" aria-hidden="true"><span class="octicon octicon-link"></span></a>Conditionals vs. Booleans<a class="anchor-link" href="#Conditionals-vs.-Booleans"> </a>
+</h1>
+<p>WRITE HERE</p>
+
+</div>
+</div>
+</div>
+<div class="cell border-box-sizing text_cell rendered">
+<div class="inner_cell">
+<div class="text_cell_render border-box-sizing rendered_html">
+<h2 id="Example-3-|-Conditionals-vs-Booleans">
+<a class="anchor" href="#Example-3-%7C-Conditionals-vs-Booleans" aria-hidden="true"><span class="octicon octicon-link"></span></a>Example 3 | Conditionals vs Booleans<a class="anchor-link" href="#Example-3-%7C-Conditionals-vs-Booleans"> </a>
+</h2>
+</div>
+</div>
+</div>
+<div class="cell border-box-sizing text_cell rendered">
+<div class="inner_cell">
+<div class="text_cell_render border-box-sizing rendered_html">
+<p>The following algorithms are intended to sum the odd numbers from 1-9. Which algorithms work as intended?</p>
+<p><img src="/TripleAJ/images/copied_from_nb/../images/lesson9.png" alt="f"></p>
+
+</div>
+</div>
+</div>
+<div class="cell border-box-sizing text_cell rendered">
+<div class="inner_cell">
+<div class="text_cell_render border-box-sizing rendered_html">
+<h2 id="First-block">
+<a class="anchor" href="#First-block" aria-hidden="true"><span class="octicon octicon-link"></span></a>First block<a class="anchor-link" href="#First-block"> </a>
+</h2>
+</div>
+</div>
+</div>
+    
+    
+<div class="cell border-box-sizing code_cell rendered">
+<div class="input">
+
+<div class="inner_cell">
+    <div class="input_area">
+<div class=" highlight hl-ipython3"><pre><span></span><span class="nb">sum</span> <span class="o">=</span> <span class="mi">1</span>
+<span class="n">counter</span> <span class="o">=</span> <span class="mi">3</span>
+<span class="c1">#iteration</span>
+<span class="n">var</span> <span class="o">=</span> <span class="mi">0</span> 
+<span class="k">while</span> <span class="p">(</span><span class="n">var</span> <span class="o">&lt;=</span> <span class="mi">4</span><span class="p">):</span> <span class="c1">#while the var is &lt;= 4, it executes those commands, once it exceeds it hits the else command</span>
+    <span class="nb">sum</span> <span class="o">=</span> <span class="nb">sum</span> <span class="o">+</span> <span class="n">counter</span>
+    <span class="n">counter</span> <span class="o">=</span> <span class="n">counter</span> <span class="o">+</span> <span class="mi">2</span>
+    <span class="n">var</span> <span class="o">=</span> <span class="n">var</span> <span class="o">+</span> <span class="mi">1</span>
+    <span class="c1"># now go through the whole thing 4 times, this is an iteration, a vital part of algorithms.</span>
+<span class="k">else</span><span class="p">:</span>
+    <span class="nb">print</span><span class="p">(</span><span class="nb">sum</span><span class="p">)</span>
+</pre></div>
+
+    </div>
+</div>
+</div>
+
+<div class="output_wrapper">
+<div class="output">
+
+<div class="output_area">
+
+<div class="output_subarea output_stream output_stdout output_text">
+<pre>36
+</pre>
+</div>
+</div>
+
+</div>
+</div>
+
+</div>
+    
+
+<div class="cell border-box-sizing text_cell rendered">
+<div class="inner_cell">
+<div class="text_cell_render border-box-sizing rendered_html">
+<h2 id="Second-block">
+<a class="anchor" href="#Second-block" aria-hidden="true"><span class="octicon octicon-link"></span></a>Second block<a class="anchor-link" href="#Second-block"> </a>
+</h2>
+</div>
+</div>
+</div>
+    
+    
+<div class="cell border-box-sizing code_cell rendered">
+<div class="input">
+
+<div class="inner_cell">
+    <div class="input_area">
+<div class=" highlight hl-ipython3"><pre><span></span><span class="nb">sum</span> <span class="o">=</span> <span class="mi">0</span>
+<span class="n">counter</span> <span class="o">=</span> <span class="mi">9</span>
+<span class="c1">#iteration</span>
+<span class="k">while</span> <span class="p">(</span><span class="n">counter</span> <span class="o">&lt;</span> <span class="mi">1</span><span class="p">):</span> <span class="c1">#while the var is &lt;= 4, it executes those commands, once it exceeds it hits the else command</span>
+    <span class="nb">sum</span> <span class="o">=</span> <span class="nb">sum</span> <span class="o">+</span> <span class="n">counter</span>
+    <span class="n">counter</span> <span class="o">=</span> <span class="n">counter</span> <span class="o">-</span> <span class="mi">2</span>
+    <span class="c1"># now go through the whole thing 4 times, this is an iteration, a vital part of algorithms.</span>
+<span class="k">else</span><span class="p">:</span>
+    <span class="nb">print</span><span class="p">(</span><span class="nb">sum</span><span class="p">)</span>
+</pre></div>
+
+    </div>
+</div>
+</div>
+
+<div class="output_wrapper">
+<div class="output">
+
+<div class="output_area">
+
+<div class="output_subarea output_stream output_stdout output_text">
+<pre>0
+</pre>
+</div>
+</div>
+
+</div>
+</div>
+
+</div>
+    
+
 <div class="cell border-box-sizing text_cell rendered">
 <div class="inner_cell">
 <div class="text_cell_render border-box-sizing rendered_html">
