@@ -46,17 +46,6 @@
   
     
         ,"post4": {
-            "title": "3.9 Lesson 3",
-            "content": "Lesson created by Josh Williams . Week 9 Lesson 3 Developing Algorithms and Binary Search Planning . Presented by Josh . Intro to “What Will we Learn in this Lesson?” . For Algorithms How to combine and/or modify an existing algorithm. | . | Benefits of this skill can reduce development time, testing time, and simplify the identification of errors. | . | . Example . Here I plan on using the robot example from the college board video and seeing if they can solve the problem, just as a little intro | . . Next example which leads into HW. . Insert a collatz conjecture picture which explains what it is | . . gives them basic algorithm for identifying odds and evens and has them add to it until the rules fit that of the collatz conjectures, this is what they will be graded on . | Insert ipynb file with the basic algorithm. . | . Hacks . create another algorithm using a famous mathematical algorithm such as the “collatz conjecture.” and explain your steps in a post on your blog. | .",
-            "url": "https://azeem-khan1.github.io/TripleAJ/3-9/Lesson3",
-            "relUrl": "/3-9/Lesson3",
-            "date": " • Nov 18, 2022"
-        }
-        
-    
-  
-    
-        ,"post5": {
             "title": "3.9 Part 1 - Developing Algorithms",
             "content": "Lesson Overview/Plan . The lesson will start off with introducing what algorithms are and what they do, moreover, what their significance is. . 3.9 Lesson 1 has the objective to teach the student of the outcome of similar algorithmic concepts and similar algorithms. In this lesson, you will see different ways on how algorithms are developed. . For the lesson, we are going to take detailed notes for the entire three videos and from those notes, we are going to try to make the lesson as applicable as possible, and so we are thinking of potentially making a video with our own API and algorithm or explaining other APIs that have similar algorithms, this would be innovative. . Some ideas: . Blackjack | Flip a coin | 8 Ball | . Notes . Objective . Compare multiple algorithms to determine if they yield the same side effect or result. .",
             "url": "https://azeem-khan1.github.io/TripleAJ/3-9Lesson1",
@@ -67,7 +56,7 @@
     
   
     
-        ,"post6": {
+        ,"post5": {
             "title": "3.11 Lesson 1",
             "content": "Lesson Created by Ahad B. . Lesson Overview . This lesson is about Binary Search and how this algorithm is structured and operates. Lesson will give a very brief recap of the past lessons. Recap will briefly be about binary basics that were shown in previous lessons. . 3.11 Lesson 1 | Binary Search Algorithm . Learning objectives . Detirmine the number of iterations required to find a value in a data set | Explain the requirements neccesary to complete a nimary search | . What we Learned/ Demonstration of mastery/homework . complete practice questions | Check answers | . Homework .",
             "url": "https://azeem-khan1.github.io/TripleAJ/3-11/Lesson1",
