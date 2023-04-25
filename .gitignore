@@ -12,4 +12,6 @@ _notebooks/.ipynb_checkpoints
 .netlify
 .tweet-cache
 __pycache__
-
+# Ignore from local build
+settings.ini
+Gemfile.lock
