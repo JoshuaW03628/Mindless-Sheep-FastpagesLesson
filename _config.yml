@@ -6,15 +6,15 @@
 # https://learn-the-web.algonquindesign.ca/topics/markdown-yaml-cheat-sheet/#yaml
 # https://learnxinyminutes.com/docs/yaml/
 
-title: TripleAJ
-description: The TripleAJ Site
-github_username: Azeem-Khan1
+title: Tri-3 Lesson blog
+description: An easy to use blogging platform with support for Jupyter Notebooks.
+github_username: JoshuaW03628
 # you can comment the below line out if your repo name is not different than your baseurl
-github_repo: "TripleAJ"
+github_repo: "Mindless-Sheep-FastpagesLesson"
 
 # OPTIONAL: override baseurl and url if using a custom domain
 # Note: leave out the trailing / from this value. 
-url: "https://Azeem-Khan1.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://JoshuaW03628.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 
 ###########################################################
 #########  Special Instructions for baseurl ###############
@@ -34,7 +34,7 @@ url: "https://Azeem-Khan1.github.io" # the base hostname & protocol for your sit
 #
 # 3. You must replace the parameter `baseurl` in _action_files/settings.ini with the same value as you set here but WITHOUT QUOTES.
 #
-baseurl: "/TripleAJ" # the subpath of your site, e.g. "/blog".
+baseurl: "/Mindless-Sheep-FastpagesLesson" # the subpath of your site, e.g. "/blog".
 
 # Github and twitter are optional:
 minima:
@@ -43,9 +43,10 @@ minima:
   #    twitter: NighthawkCoding
   #    github: nighthawkcoders
   #   youtube_channel: UClIKOsDS5dsfzFA3zveDT3Q
-  #social_links:
-  # - { platform: github, user_url: "https://github.com/Azeem-Khan1"}
-  #  - { platform: instagram, user_url: "https://www.instagram.com/prodlilxeem"}
+  social_links:
+    - { platform: github, user_url: "https://github.com/nighthawkcoders"}
+    - { platform: twitter, user_url: "https://twitter.com/NighthawkCoding"}
+    - { platform: youtube, user_url: "https://www.youtube.com/channel/UClIKOsDS5dsfzFA3zveDT3Q"}
 
 # Set this to true to get LaTeX math equation support
 use_math: 
@@ -54,7 +55,7 @@ use_math:
 show_description: true
 
 # Set this to true to display image previews on home page, if they exist
-show_image: true
+show_image: false
 
 # Set this to true to turn on annotations with hypothes.is (https://web.hypothes.is/)
 annotations: false
